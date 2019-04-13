@@ -118,6 +118,9 @@ textarea {
   #title {
     text-align: center;
   }
+
+/* For Image */
+
   #imgDiv {
     margin: 20px;
   }
@@ -132,6 +135,16 @@ textarea {
     text-align: center;
     font-family: arial;
   }
+
+  /* Video */
+
+  #whoIsMegaman {
+    display: block;
+    margin: 50px auto;
+  }
+
+  /* Citation Link */
+
   #wikiLink {
     text-align: center;
     border: 1px solid white;
